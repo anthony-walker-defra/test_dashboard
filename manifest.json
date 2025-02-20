@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "locale": "English_United Kingdom.1252",
+  "metadata": {
+    "appmode": "python-streamlit",
+    "entrypoint": "test_app"
+  },
+  "python": {
+    "version": "3.10.10",
+    "package_manager": {
+      "name": "pip",
+      "version": "22.3.1",
+      "package_file": "requirements.txt"
+    }
+  },
+  "files": {
+    "requirements.txt": {
+      "checksum": "bd533d270acac1d785dad185a93303b4"
+    },
+    "test_app.py": {
+      "checksum": "3293e97d1d1ba965d39ed479283f6d7f"
+    }
+  }
+}
